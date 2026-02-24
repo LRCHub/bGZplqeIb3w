@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Satellite",
+  "base_artist": "Harry Styles",
+  "createdAt": "2026-02-24T17:49:17.738257Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Satellite of Love",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/01_Satellite_of_Love_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Satellite",
+      "artist": "Marc With a C",
+      "has_synced": true,
+      "path": "select/02_Satellite_Marc_With_a_C.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Satellite Mind",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/03_Satellite_Mind_Metric.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Promenade (Satellite Pictures at an Exhibition)",
+      "artist": "Neil Cicierega",
+      "has_synced": true,
+      "path": "select/04_Promenade_(Satellite_Pictures_at_an_Exhibition)_Neil_Cicierega.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Satellite",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/05_Satellite_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Satellite",
+      "artist": "Little Boots",
+      "has_synced": false,
+      "path": "select/06_Satellite_Little_Boots.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boom Boom Satellite",
+      "artist": "Sigue Sigue Sputnik",
+      "has_synced": true,
+      "path": "select/07_Boom_Boom_Satellite_Sigue_Sigue_Sputnik.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Satellite",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/08_Satellite_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Satellite to Satellite",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/09_Satellite_to_Satellite_Falco.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sleeping Satellite",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/10_Sleeping_Satellite_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Time Paradox (feat. Satellite Young)",
+      "artist": "Mitch Murder",
+      "has_synced": false,
+      "path": "select/11_Time_Paradox_(feat._Satellite_Young)_Mitch_Murder.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Satellite",
+      "artist": "Marsheaux",
+      "has_synced": false,
+      "path": "select/12_Satellite_Marsheaux.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Haunted Satellite",
+      "artist": "Beth Orton",
+      "has_synced": true,
+      "path": "select/13_Haunted_Satellite_Beth_Orton.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Satellite Mind",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/14_Satellite_Mind_Metric.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Satellite of Love",
+      "artist": "Porno for Pyros",
+      "has_synced": true,
+      "path": "select/15_Satellite_of_Love_Porno_for_Pyros.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Another Satellite",
+      "artist": "Andy Partridge",
+      "has_synced": false,
+      "path": "select/16_Another_Satellite_Andy_Partridge.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Another Satellite",
+      "artist": "XTC",
+      "has_synced": false,
+      "path": "select/17_Another_Satellite_XTC.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Satellite",
+      "artist": "Harry Styles",
+      "has_synced": false,
+      "path": "select/pl_01_Satellite_Harry_Styles.txt"
+    }
+  ]
+}
